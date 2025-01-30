@@ -1,6 +1,6 @@
 <h1 align="center">Challenge Amigo Secreto👥</h1>
 
-Recentemente, comecei meu curso no programa [ONE - Oracle Next Education](https://www.oracle.com/br/education/oracle-next-education/) com parceria da Alura, com especialização em Data Science. Neste curso, estudaremos modelagem de dados com Python, ETL com Pandas e Machine Learning. Porém, antes de tudo, estamos realizando trilhas de conhecimento, como o Iniciante em Programação e Desenvolvimento Pessoal.
+Recentemente, comecei meu curso no programa [ONE - Oracle Next Education](https://www.oracle.com/br/education/oracle-next-education/) com parceria da Alura, com especialização em Data Science ou Back-End. Na especialização que escolhi, Data Science, estudaremos modelagem de dados com Python, ETL com Pandas e Machine Learning. Porém, antes de tudo, estamos realizando trilhas de conhecimento, como o Iniciante em Programação e Desenvolvimento Pessoal.
 
 O curso "Praticando Logica de programação: Challenge amigo secreto" propôs um desafio onde testamos nosso conhecimento em lógica de programação em JavaScript. Utilizamos conceitos de arrays, funções e o DOM (Document Object Model). A interface foi fornecida pela Alura, para que pudéssemos focar apenas no desenvolvimento do código.
 
